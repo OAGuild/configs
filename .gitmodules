@@ -1,0 +1,3 @@
+[submodule "commicfg"]
+	path = commicfg
+	url = git@github.com:OAGuild/commicfg.git
